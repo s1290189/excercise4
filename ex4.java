@@ -16,6 +16,6 @@ public class Main {
 		System.out.println("Heads: "+heads+", Tails: "+tails);
 		
 		if(heads>tails) System.out.println(s+" won!");
-		else System.out.println(s+" lost")
+		else System.out.println(s+" lost!");
 	}
 }
